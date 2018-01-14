@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TrackPlan</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">TrackPlan</string>
+
+    <!-- Strings related to login -->
+
+    <string name="prompt_password">Password (mandatory)</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_mainteachers">MainteachersActivity</string>
+
+
+</resources>
