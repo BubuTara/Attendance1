@@ -1,1 +1,2 @@
-# Attendance checking app
+# Android Attendance App
+
